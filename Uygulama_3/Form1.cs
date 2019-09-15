@@ -85,5 +85,17 @@ namespace Uygulama_3
         {
             MessageBox.Show($"Dizi Elemanlarının Toplamı...: {totalValueOfArray(intArray, CalculateType.KupununToplamı)}");
         }
+
+        private void clearArrayValue(int[] param)
+        {
+            Array.Clear(param, 0, ARRAY_SIZE);
+        }
+
+        private void BtnTekrarOluştur_Click(object sender, EventArgs e)
+        {
+            clearArrayValue(intArray);
+            populate();
+            BtnListeyeAktar_Click(sender, e);
+        }
     }
 }

@@ -33,13 +33,14 @@
             this.btnElemanlariTopla = new System.Windows.Forms.Button();
             this.btnKaresiniTopla = new System.Windows.Forms.Button();
             this.btnKupunuTopla = new System.Windows.Forms.Button();
+            this.btnTekrarOluştur = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnListeyeAktar
             // 
             this.btnListeyeAktar.Location = new System.Drawing.Point(12, 12);
             this.btnListeyeAktar.Name = "btnListeyeAktar";
-            this.btnListeyeAktar.Size = new System.Drawing.Size(277, 37);
+            this.btnListeyeAktar.Size = new System.Drawing.Size(130, 37);
             this.btnListeyeAktar.TabIndex = 0;
             this.btnListeyeAktar.Text = "Listeye Aktar";
             this.btnListeyeAktar.UseVisualStyleBackColor = true;
@@ -83,6 +84,16 @@
             this.btnKupunuTopla.UseVisualStyleBackColor = true;
             this.btnKupunuTopla.Click += new System.EventHandler(this.BtnKupunuTopla_Click);
             // 
+            // btnTekrarOluştur
+            // 
+            this.btnTekrarOluştur.Location = new System.Drawing.Point(148, 12);
+            this.btnTekrarOluştur.Name = "btnTekrarOluştur";
+            this.btnTekrarOluştur.Size = new System.Drawing.Size(141, 37);
+            this.btnTekrarOluştur.TabIndex = 0;
+            this.btnTekrarOluştur.Text = "Diziyi Tekrar Oluştur";
+            this.btnTekrarOluştur.UseVisualStyleBackColor = true;
+            this.btnTekrarOluştur.Click += new System.EventHandler(this.BtnTekrarOluştur_Click);
+            // 
             // frmUygulama_3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -92,6 +103,7 @@
             this.Controls.Add(this.btnKaresiniTopla);
             this.Controls.Add(this.btnElemanlariTopla);
             this.Controls.Add(this.lstDiziElemanlari);
+            this.Controls.Add(this.btnTekrarOluştur);
             this.Controls.Add(this.btnListeyeAktar);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
@@ -109,6 +121,7 @@
         private System.Windows.Forms.Button btnElemanlariTopla;
         private System.Windows.Forms.Button btnKaresiniTopla;
         private System.Windows.Forms.Button btnKupunuTopla;
+        private System.Windows.Forms.Button btnTekrarOluştur;
     }
 }
 
