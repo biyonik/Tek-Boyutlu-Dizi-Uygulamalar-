@@ -6,3 +6,5 @@ C# ile Tek Boyutlu Dizi Uygulamaları
 1 ~ <strong>Uygulama_1</strong>: Tek boyutlu 'string' bir dizi üzerinde dinamik ekleme/görüntüleme/listeleme işlemi yapılması
 <br>
 2 ~ <strong>Uygulama_2</strong>: Tek boyutlu 'int' bir dizi üzerinde dinamik ekleme/görüntüleme/listeleme işlemi yapılması
+<br>
+3 ~ <strong>Uygulama_3</strong>: Tek boyutlu 'int' bir dizi üzerinde elemanların toplamı, karesinin toplamı ve küpünün toplamı işleminin yapılması
