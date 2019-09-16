@@ -44,7 +44,7 @@ namespace Uygulama_3
         private int totalValueOfArray(int[] param, CalculateType hesaplamaTipi)
         {
             int result = 0;
-            foreach (int item in intArray)
+            foreach (int item in param)
             {
                 result += Convert.ToInt32(Math.Pow(item, (int)hesaplamaTipi));
             }
