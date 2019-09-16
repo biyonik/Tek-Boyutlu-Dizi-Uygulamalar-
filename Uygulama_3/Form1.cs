@@ -44,31 +44,11 @@ namespace Uygulama_3
         private int totalValueOfArray(int[] param, CalculateType hesaplamaTipi)
         {
             int result = 0;
-            switch(hesaplamaTipi)
+            foreach (int item in intArray)
             {
-                case CalculateType.ElemanToplamı:
-                    foreach (int item in param)
-                    {
-                        result += item;
-                    }
-                    return result;
-                case CalculateType.KaresininToplamı:
-                    foreach (int item in param)
-                    {
-                        result += Convert.ToInt32(Math.Pow(item,2));
-                    }
-                    return result;
-                case CalculateType.KupununToplamı:
-                    foreach (int item in param)
-                    {
-                        result += Convert.ToInt32(Math.Pow(item, 3));
-                    }
-                    return result;
-                default:
-                    return result;
-
+                result += Convert.ToInt32(Math.Pow(item, (int)hesaplamaTipi));
             }
-            
+            return result;
         }
 
         private void BtnElemanlariTopla_Click(object sender, EventArgs e)
