@@ -9,9 +9,9 @@ C# ile Tek Boyutlu Dizi Uygulamaları
 <br>
 3 ~ <strong>Uygulama_3</strong>: Tek boyutlu 'int' bir dizi üzerinde elemanların toplamı, karesinin toplamı ve küpünün toplamı işleminin yapılması
 <br>
-4 ~ <strong>Uygulama_3</strong>: Tek boyutlu 'int' iki dizinin toplanıp üçüncü bir dizi olarak oluşturulması
+4 ~ <strong>Uygulama_4</strong>: Tek boyutlu 'int' iki dizinin toplanıp üçüncü bir dizi olarak oluşturulması
 <br>
-5 ~ <strong>Uygulama_3</strong>: Tek boyutlu 'int' bir dizinin elemanlarını bir 'K' sayısı ile çarpıp yeni bir dizi oluşturulması
+5 ~ <strong>Uygulama_5</strong>: Tek boyutlu 'int' bir dizinin elemanlarını bir 'K' sayısı ile çarpıp yeni bir dizi oluşturulması
 <br>
-6 ~ <strong>Uygulama_3</strong>: Tek boyutlu 'int' bir dizinin tersten sıralanıp, yeni bir diziye yerleştirilmesi
+6 ~ <strong>Uygulama_6</strong>: Tek boyutlu 'int' bir dizinin tersten sıralanıp, yeni bir diziye yerleştirilmesi
 
