@@ -14,4 +14,5 @@ C# ile Tek Boyutlu Dizi Uygulamaları
 5 ~ <strong>Uygulama_5</strong>: Tek boyutlu 'int' bir dizinin elemanlarını bir 'K' sayısı ile çarpıp yeni bir dizi oluşturulması
 <br>
 6 ~ <strong>Uygulama_6</strong>: Tek boyutlu 'int' bir dizinin tersten sıralanıp, yeni bir diziye yerleştirilmesi
-
+<br>
+6 ~ <strong>Uygulama_6</strong>: Tek boyutlu 'int' iki dizinin elemanlarının skaler çarpımının hesaplanması
