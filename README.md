@@ -15,4 +15,4 @@ C# ile Tek Boyutlu Dizi Uygulamaları
 <br>
 6 ~ <strong>Uygulama_6</strong>: Tek boyutlu 'int' bir dizinin tersten sıralanıp, yeni bir diziye yerleştirilmesi
 <br>
-6 ~ <strong>Uygulama_7</strong>: Tek boyutlu 'int' iki dizinin elemanlarının skaler çarpımının hesaplanması
+7 ~ <strong>Uygulama_7</strong>: Tek boyutlu 'int' iki dizinin elemanlarının skaler çarpımının hesaplanması
