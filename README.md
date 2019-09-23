@@ -16,3 +16,9 @@ C# ile Tek Boyutlu Dizi Uygulamaları
 6 ~ <strong>Uygulama_6</strong>: Tek boyutlu 'int' bir dizinin tersten sıralanıp, yeni bir diziye yerleştirilmesi
 <br>
 7 ~ <strong>Uygulama_7</strong>: Tek boyutlu 'int' iki dizinin elemanlarının skaler çarpımının hesaplanması
+<br>
+8 ~ <strong>Uygulama_8</strong>: Tek boyutlu 'int' bir dizinin elemanlarının aritmetik, geometik ve harmonik ortalamalarının hesaplanması
+<br>
+9 ~ <strong>Uygulama_9</strong>: Tek boyutlu 'int' bir dizinin en küçük ve en büyük elemanların indislerinin bulunması
+<br>
+10 ~ <strong>Uygulama_10</strong>: Tek boyutlu 'int' bir dizinin küçükten büyüğe doğru sıralanması
