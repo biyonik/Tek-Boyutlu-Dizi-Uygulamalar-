@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama_8", "Uygulama_8\Uy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama_9", "Uygulama_9\Uygulama_9.csproj", "{BC4F72F5-546D-4E95-83DA-B00A053F6A78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama_10", "Uygulama_10\Uygulama_10.csproj", "{EC4EF20C-4432-4551-B023-AECE8073F5AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{BC4F72F5-546D-4E95-83DA-B00A053F6A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC4F72F5-546D-4E95-83DA-B00A053F6A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC4F72F5-546D-4E95-83DA-B00A053F6A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4EF20C-4432-4551-B023-AECE8073F5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4EF20C-4432-4551-B023-AECE8073F5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4EF20C-4432-4551-B023-AECE8073F5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4EF20C-4432-4551-B023-AECE8073F5AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
