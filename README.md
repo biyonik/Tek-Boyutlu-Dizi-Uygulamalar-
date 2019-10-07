@@ -23,6 +23,6 @@ C# ile Tek Boyutlu Dizi Uygulamaları
 <br>
 10 ~ <strong>Uygulama_10</strong>: Tek boyutlu 'int' bir dizinin küçükten büyüğe doğru sıralanması
 <br>
-11 ~ <strong>Uygulama_10</strong>: -
+11 ~ <strong>Uygulama_11</strong>: -
 <br>
-12 ~ <strong>Uygulama_10</strong>: N adet nokta çiftinden kaç tanesinin (x-a)^2 + (y-b)^2 = r^2 dairesinin içinde, kaçının dışında ve kaçının üzerinde olduğunun bulunması
+12 ~ <strong>Uygulama_12</strong>: N adet nokta çiftinden kaç tanesinin (x-a)^2 + (y-b)^2 = r^2 dairesinin içinde, kaçının dışında ve kaçının üzerinde olduğunun bulunması
